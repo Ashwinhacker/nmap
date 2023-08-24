@@ -3,7 +3,7 @@ web scanning tool in python
 
 #run command
 
-git clone 
+git clone https://github.com/Ashwinhacker/nmap.git
 
 cd nmap
 
